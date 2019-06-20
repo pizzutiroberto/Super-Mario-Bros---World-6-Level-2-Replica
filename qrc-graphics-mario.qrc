@@ -1,0 +1,73 @@
+<RCC>
+    <qresource prefix="/">
+      <file>graphics/mario/small/climb-0.png</file>
+      <file>graphics/mario/small/climb-1.png</file>
+      <file>graphics/mario/small/dead.png</file>
+      <file>graphics/mario/small/jump.png</file>
+      <file>graphics/mario/small/stand.png</file>
+      <file>graphics/mario/small/swim-0.png</file>
+      <file>graphics/mario/small/swim-1.png</file>
+      <file>graphics/mario/small/swim-2.png</file>
+      <file>graphics/mario/small/swim-3.png</file>
+      <file>graphics/mario/small/swim-4.png</file>
+      <file>graphics/mario/small/walk-0.png</file>
+      <file>graphics/mario/small/walk-1.png</file>
+      <file>graphics/mario/small/walk-2.png</file>
+
+      <file>graphics/mario/big/climb-0.png</file>
+      <file>graphics/mario/big/climb-1.png</file>
+      <file>graphics/mario/big/crouch.png</file>
+      <file>graphics/mario/big/jump.png</file>
+      <file>graphics/mario/big/med-stand.png</file>
+      <file>graphics/mario/big/stand.png</file>
+      <file>graphics/mario/big/swim-0.png</file>
+      <file>graphics/mario/big/swim-1.png</file>
+      <file>graphics/mario/big/swim-2.png</file>
+      <file>graphics/mario/big/swim-3.png</file>
+      <file>graphics/mario/big/swim-4.png</file>
+      <file>graphics/mario/big/walk-0.png</file>
+      <file>graphics/mario/big/walk-1.png</file>
+      <file>graphics/mario/big/walk-2.png</file>
+
+      <file>graphics/mario/fire/climb-0.png</file>
+      <file>graphics/mario/fire/climb-1.png</file>
+      <file>graphics/mario/fire/crouch.png</file>
+      <file>graphics/mario/fire/jump.png</file>
+      <file>graphics/mario/fire/stand.png</file>
+      <file>graphics/mario/fire/swim-0.png</file>
+      <file>graphics/mario/fire/swim-1.png</file>
+      <file>graphics/mario/fire/swim-2.png</file>
+      <file>graphics/mario/fire/swim-3.png</file>
+      <file>graphics/mario/fire/swim-4.png</file>
+      <file>graphics/mario/fire/walk-0.png</file>
+      <file>graphics/mario/fire/walk-1.png</file>
+      <file>graphics/mario/fire/walk-2.png</file>
+
+      <file>graphics/mario/invincible-small/climb-0.png</file>
+      <file>graphics/mario/invincible-small/climb-1.png</file>
+      <file>graphics/mario/invincible-small/jump.png</file>
+      <file>graphics/mario/invincible-small/stand.png</file>
+      <file>graphics/mario/invincible-small/swim-0.png</file>
+      <file>graphics/mario/invincible-small/swim-1.png</file>
+      <file>graphics/mario/invincible-small/swim-2.png</file>
+      <file>graphics/mario/invincible-small/swim-3.png</file>
+      <file>graphics/mario/invincible-small/swim-4.png</file>
+      <file>graphics/mario/invincible-small/walk-0.png</file>
+      <file>graphics/mario/invincible-small/walk-1.png</file>
+      <file>graphics/mario/invincible-small/walk-2.png</file>
+
+      <file>graphics/mario/invincible-big/climb-0.png</file>
+      <file>graphics/mario/invincible-big/climb-1.png</file>
+      <file>graphics/mario/invincible-big/crouch.png</file>
+      <file>graphics/mario/invincible-big/jump.png</file>
+      <file>graphics/mario/invincible-big/stand.png</file>
+      <file>graphics/mario/invincible-big/swim-0.png</file>
+      <file>graphics/mario/invincible-big/swim-1.png</file>
+      <file>graphics/mario/invincible-big/swim-2.png</file>
+      <file>graphics/mario/invincible-big/swim-3.png</file>
+      <file>graphics/mario/invincible-big/swim-4.png</file>
+      <file>graphics/mario/invincible-big/walk-0.png</file>
+      <file>graphics/mario/invincible-big/walk-1.png</file>
+      <file>graphics/mario/invincible-big/walk-2.png</file>
+    </qresource>
+</RCC>

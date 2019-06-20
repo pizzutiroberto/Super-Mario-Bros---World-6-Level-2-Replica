@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+      <file>graphics/enemies/blooper/blooper-0.png</file>
+      <file>graphics/enemies/blooper/blooper-1.png</file>
+
+      <file>graphics/enemies/buzzy-beetle/walk-0.png</file>
+      <file>graphics/enemies/buzzy-beetle/walk-1.png</file>
+      <file>graphics/enemies/buzzy-beetle/shell.png</file>
+
+      <file>graphics/enemies/cheep-cheep/grey-0.png</file>
+      <file>graphics/enemies/cheep-cheep/grey-1.png</file>
+      <file>graphics/enemies/cheep-cheep/red-0.png</file>
+      <file>graphics/enemies/cheep-cheep/red-1.png</file>
+
+      <file>graphics/enemies/goomba/walk-0.png</file>
+      <file>graphics/enemies/goomba/walk-1.png</file>
+      <file>graphics/enemies/goomba/dead.png</file>
+
+      <file>graphics/enemies/koopa/fly-0.png</file>
+      <file>graphics/enemies/koopa/fly-1.png</file>
+      <file>graphics/enemies/koopa/shell-0.png</file>
+      <file>graphics/enemies/koopa/shell-1.png</file>
+      <file>graphics/enemies/koopa/walk-0.png</file>
+      <file>graphics/enemies/koopa/walk-1.png</file>
+
+      <file>graphics/enemies/piranha-plant/piranha-0.png</file>
+      <file>graphics/enemies/piranha-plant/piranha-1.png</file>
+    </qresource>
+</RCC>

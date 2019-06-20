@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+      <file>graphics/HUD/0.png</file>
+      <file>graphics/HUD/1.png</file>
+      <file>graphics/HUD/2.png</file>
+      <file>graphics/HUD/3.png</file>
+      <file>graphics/HUD/4.png</file>
+      <file>graphics/HUD/5.png</file>
+      <file>graphics/HUD/6.png</file>
+      <file>graphics/HUD/7.png</file>
+      <file>graphics/HUD/8.png</file>
+      <file>graphics/HUD/9.png</file>
+      <file>graphics/HUD/mario.png</file>
+      <file>graphics/HUD/world-0.png</file>
+      <file>graphics/HUD/world-1.png</file>
+      <file>graphics/HUD/time.png</file>
+      <file>graphics/HUD/life-1up.png</file>
+      <file>graphics/HUD/score-50.png</file>
+      <file>graphics/HUD/score-100.png</file>
+      <file>graphics/HUD/score-200.png</file>
+      <file>graphics/HUD/score-400.png</file>
+      <file>graphics/HUD/score-500.png</file>
+      <file>graphics/HUD/score-1000.png</file>
+      <file>graphics/HUD/score-1500.png</file>
+      <file>graphics/HUD/score-2000.png</file>
+      <file>graphics/HUD/score-2500.png</file>
+      <file>graphics/HUD/score-3000.png</file>
+      <file>graphics/HUD/score-3500.png</file>
+      <file>graphics/HUD/score-4000.png</file>
+      <file>graphics/HUD/score-4500.png</file>
+      <file>graphics/HUD/score-5000.png</file>
+      <file>graphics/HUD/time-over.png</file>
+      <file>graphics/HUD/game-over.png</file>
+      <file>graphics/HUD/paused.png</file>
+      <file>graphics/HUD/show-commands.png</file>
+    </qresource>
+</RCC>

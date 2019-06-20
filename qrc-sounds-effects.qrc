@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+      <file>sounds/block-break.wav</file>
+      <file>sounds/block-hit.wav</file>
+      <file>sounds/coin.wav</file>
+      <file>sounds/jump-small.wav</file>
+      <file>sounds/jump-big.wav</file>
+      <file>sounds/mushroom-appear.wav</file>
+      <file>sounds/mushroom-eat.wav</file>
+      <file>sounds/oneup.wav</file>
+      <file>sounds/pause.wav</file>
+      <file>sounds/stomp.wav</file>
+      <file>sounds/shrink.wav</file>
+      <file>sounds/fireball.wav</file>
+      <file>sounds/vine.wav</file>
+      <file>sounds/kick.wav</file>
+      <file>sounds/star.wav</file>
+      <file>sounds/time-warning.wav</file>
+      <file>sounds/death.wav</file>
+      <file>sounds/gameover.wav</file>
+      <file>sounds/levelend.wav</file>
+      <file>sounds/time-to-score.wav</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+      <file>graphics/items/coin-0.png</file>
+      <file>graphics/items/coin-1.png</file>
+      <file>graphics/items/coin-2.png</file>
+      <file>graphics/items/coin-3.png</file>
+      <file>graphics/items/fireball-0.bmp</file>
+      <file>graphics/items/fireball-1.bmp</file>
+      <file>graphics/items/fireball-2.bmp</file>
+      <file>graphics/items/fireball-3.bmp</file>
+      <file>graphics/items/flower.png</file>
+      <file>graphics/items/flower-0.bmp</file>
+      <file>graphics/items/flower-1.bmp</file>
+      <file>graphics/items/flower-2.bmp</file>
+      <file>graphics/items/flower-3.bmp</file>
+      <file>graphics/items/mushroom-green.png</file>
+      <file>graphics/items/mushroom-red.png</file>
+      <file>graphics/items/star.png</file>
+    </qresource>
+</RCC>
